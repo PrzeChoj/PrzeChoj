@@ -1,5 +1,6 @@
 Hi, I’m Adam 👋
-PhD student at **Warsaw University of Technology** working on mathematical statistics.
+
+I'm PhD student at **Warsaw University of Technology** working on mathematical statistics.
 
 My research is primarily theoretical, but I want the methods I study to be useful in practice. I develop open-source software to make them easier to explore and apply, with particular attention to usability.
 
